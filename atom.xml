@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Andoroyur19</title>
+  
+  <subtitle>X-Space-S</subtitle>
+  <link href="https://andoroyur19.metaspaces.life/atom.xml" rel="self"/>
+  
+  <link href="https://andoroyur19.metaspaces.life/"/>
+  <updated>2021-11-23T20:32:31.761Z</updated>
+  <id>https://andoroyur19.metaspaces.life/</id>
+  
+  <author>
+    <name>BenBen43 🌟</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>视频测试</title>
+    <link href="https://andoroyur19.metaspaces.life/2021/11/23/%E8%A7%86%E9%A2%91%E6%B5%8B%E8%AF%95/"/>
+    <id>https://andoroyur19.metaspaces.life/2021/11/23/%E8%A7%86%E9%A2%91%E6%B5%8B%E8%AF%95/</id>
+    <published>2021-11-23T20:32:31.000Z</published>
+    <updated>2021-11-23T20:32:31.761Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://ipfs.fleek.co/ipfs/QmPvKG8xv2wS5BdEfbfLbY6yqCPcn1XQr3um7zj7J53hrY" alt="metanetworkusersmetaiostorageimage.png"></p><p><code>&#123;% videojs "source=https://d2zihajmogu5jn.cloudfront.net/advanced-fmp4/master.m3u8" %&#125;</code></p><hr> IPFS: <a href='https://meta-network-data-viewer.vercel.app/ipfs/bafybeicjvyr67vrrxq5e3skbuyuczm3tmy24ltxavisv6yk33kl6pjss3u' rel='external meta-network-dataviewer' target='_blank'>bafybeicjvyr67vrrxq5e3skbuyuczm3tmy24ltxavisv6yk33kl6pjss3u</a>]]></content>
+    
+    
+    <summary type="html">
+{% videojs &quot;source=https://d2zihajmogu5jn.cloudfront.net/advanced-fmp4/master.m3u8&quot; %}
+</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>测试带封面的草稿</title>
+    <link href="https://andoroyur19.metaspaces.life/2021/11/11/%E6%B5%8B%E8%AF%95%E5%B8%A6%E5%B0%81%E9%9D%A2%E7%9A%84%E8%8D%89%E7%A8%BF-1/"/>
+    <id>https://andoroyur19.metaspaces.life/2021/11/11/%E6%B5%8B%E8%AF%95%E5%B8%A6%E5%B0%81%E9%9D%A2%E7%9A%84%E8%8D%89%E7%A8%BF-1/</id>
+    <published>2021-11-11T20:21:38.000Z</published>
+    <updated>2021-11-17T19:37:39.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>测试UML图</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br><span class="line">54</span><br><span class="line">55</span><br><span class="line">56</span><br><span class="line">57</span><br><span class="line">58</span><br><span class="line">59</span><br><span class="line">60</span><br><span class="line">61</span><br><span class="line">62</span><br><span class="line">63</span><br><span class="line">64</span><br><span class="line">65</span><br><span class="line">66</span><br><span class="line">67</span><br><span class="line">68</span><br><span class="line">69</span><br><span class="line">70</span><br><span class="line">71</span><br><span class="line">72</span><br><span class="line">73</span><br><span class="line">74</span><br><span class="line">75</span><br><span class="line">76</span><br><span class="line">77</span><br><span class="line">78</span><br><span class="line">79</span><br></pre></td><td class="code"><pre><span class="line">@startuml</span><br><span class="line">!include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Container.puml</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line">Person(creator, &quot;Creator&quot;)</span><br><span class="line"></span><br><span class="line">System_Boundary(meta, &quot;Meta&quot;)&#123;</span><br><span class="line"></span><br><span class="line">    System_Boundary(meta_cms, &quot;Meta CMS&quot;)&#123;</span><br><span class="line">        Container(cms_frontend, &quot;CMS Frontend&quot;, &quot;Umi.js&quot;)</span><br><span class="line">        Container(cms_api_app, &quot;CMS API Application&quot;, &quot;Nest.js&quot;, &quot;Handles all business logic&quot;)</span><br><span class="line">        ContainerDb(cms_db, &quot;CMS Database&quot;, &quot;MySQL&quot;, &quot;Holds social media platform aggregation,service pipeline information&quot;, $sprite=&quot;mysql_server&quot;)</span><br><span class="line"></span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    Container(ucenter_api_app, &quot;UCenter API Application&quot;, &quot;Nest.js&quot;, &quot;Handles all user/account/auth logic&quot;)</span><br><span class="line">    ContainerDb(ucenter_db, &quot;UCenter Database&quot;, &quot;MySQL&quot;, &quot;Holds user,account,auth information&quot;, $sprite=&quot;mysql_server&quot;)</span><br><span class="line"></span><br><span class="line">    Container(fan_ticket_api_app, &quot;Fan Ticket API Application&quot;, &quot;Nest.js&quot;, &quot;Handles all fan ticket logic&quot;)</span><br><span class="line">    ContainerDb(fan_ticket_db, &quot;Fan Ticket Database&quot;, &quot;MySQL&quot;, &quot;Holds fan ticket information&quot;, $sprite=&quot;mysql_server&quot;)</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">    ContainerQueue(message_broker, &quot;Message Broker&quot;,&quot;NATS&quot;)</span><br><span class="line"></span><br><span class="line">    System_Boundary(meta_network, &quot;Meta Network&quot;)&#123;</span><br><span class="line">        Container(meta_network_frontend, &quot;Meta Network Frontend&quot;, &quot;React.js&quot;)</span><br><span class="line">        Container(meta_network_api_app, &quot;Meta Network API Application&quot;, &quot;Nest.js&quot;, &quot;Handles all Social Network logic&quot;)</span><br><span class="line">        ContainerDb(meta_network_db, &quot;Meta Network Database&quot;, &quot;MySQL&quot;, &quot;Holds social network information&quot;, $sprite=&quot;mysql_server&quot;)</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    System(nft_market, &quot;NFT Market&quot;)</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">System(meta_space, &quot;Meta Space&quot;)</span><br><span class="line"></span><br><span class="line">System_Ext(git_repo_provider, &quot;Git Repo Provider&quot;,&quot;如 Github&quot;)</span><br><span class="line">System_Ext(publisher, &quot;Publisher&quot;,&quot;如 Github Pages,Vercel,Netlify&quot;)</span><br><span class="line"></span><br><span class="line">Rel(creator, cms_frontend, &quot;Uses&quot;,&quot;https&quot;)</span><br><span class="line">Rel(creator, meta_network_frontend, &quot;Uses&quot;,&quot;https&quot;)</span><br><span class="line"></span><br><span class="line">Rel(cms_frontend, ucenter_api_app, &quot;Uses&quot;,&quot;https&quot;)</span><br><span class="line">Rel(cms_frontend, cms_api_app, &quot;Uses&quot;,&quot;https&quot;)</span><br><span class="line">Rel(cms_frontend, fan_ticket_api_app, &quot;Uses&quot;,&quot;https&quot;)</span><br><span class="line"></span><br><span class="line">Rel(ucenter_api_app, ucenter_db, &quot;Reads/Writes&quot;)</span><br><span class="line">Rel(cms_api_app, cms_db, &quot;Reads/Writes&quot;)</span><br><span class="line">Rel(fan_ticket_api_app, fan_ticket_db, &quot;Reads/Writes&quot;)</span><br><span class="line"></span><br><span class="line">Rel(meta_network_frontend, ucenter_api_app, &quot;Uses&quot;,&quot;https&quot;)</span><br><span class="line">Rel(meta_network_frontend, meta_network_api_app, &quot;Uses&quot;,&quot;https&quot;)</span><br><span class="line">Rel(meta_network_frontend, cms_api_app, &quot;Uses&quot;,&quot;https&quot;)</span><br><span class="line">Rel(meta_network_api_app, meta_network_db, &quot;Reads/Writes&quot;)</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">&#x27;Rel(ucenter_api_app, message_broker, &quot;Pub/Sub&quot;)</span><br><span class="line">&#x27;Rel(cms_api_app, message_broker, &quot;Pub/Sub&quot;)</span><br><span class="line">&#x27;Rel(fan_ticket_api_app, message_broker, &quot;Pub/Sub&quot;)</span><br><span class="line">&#x27;Rel(meta_network_api_app, message_broker, &quot;Pub/Sub&quot;)</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">Rel(cms_api_app, git_repo_provider, &quot;Uses&quot;)</span><br><span class="line">Rel(cms_api_app, publisher, &quot;Uses&quot;)</span><br><span class="line"></span><br><span class="line">Rel(publisher, git_repo_provider, &quot;Reads&quot;)</span><br><span class="line"></span><br><span class="line">Rel(publisher, meta_space, &quot;Builds &amp; Hosts&quot;)</span><br><span class="line">Rel(meta_space, nft_market, &quot;Refer / Link&quot;)</span><br><span class="line">Rel_L(nft_market, ucenter_api_app, &quot;Uses&quot;, &quot;https&quot;)</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line">SHOW_FLOATING_LEGEND()</span><br><span class="line">@enduml</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br></pre></td><td class="code"><pre><span class="line">@startuml</span><br><span class="line">!include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Container.puml</span><br><span class="line"></span><br><span class="line">AddElementTag(&quot;v1.0&quot;, $borderColor=&quot;#d73027&quot;)</span><br><span class="line">AddElementTag(&quot;v1.1&quot;, $fontColor=&quot;#d73027&quot;)</span><br><span class="line">AddElementTag(&quot;backup&quot;, $fontColor=&quot;orange&quot;)</span><br><span class="line"></span><br><span class="line">AddRelTag(&quot;backup&quot;, $textColor=&quot;orange&quot;, $lineColor=&quot;orange&quot;, $lineStyle = DashedLine())</span><br><span class="line"></span><br><span class="line">Person(user, &quot;Customer&quot;, &quot;People that need products&quot;)</span><br><span class="line">Person(admin, &quot;Administrator&quot;, &quot;People that administrates the products via the new v1.1 components&quot;, $tags=&quot;v1.1&quot;)</span><br><span class="line">Container(spa, &quot;SPA&quot;, &quot;angular&quot;, &quot;The main interface that the customer interacts with via v1.0&quot;, $tags=&quot;v1.0&quot;)</span><br><span class="line">Container(spaAdmin, &quot;Admin SPA&quot;, &quot;angular&quot;, &quot;The administrator interface that the customer interacts with via new v1.1&quot;, $tags=&quot;v1.1&quot;)</span><br><span class="line">Container(api, &quot;API&quot;, &quot;java&quot;, &quot;Handles all business logic (incl. new v1.1 extensions)&quot;, $tags=&quot;v1.0+v1.1&quot;)</span><br><span class="line">ContainerDb(db, &quot;Database&quot;, &quot;Microsoft SQL&quot;, &quot;Holds product, order and invoice information&quot;)</span><br><span class="line">Container(archive, &quot;Archive&quot;, &quot;Audit logging&quot;, &quot;Stores 5 years&quot;, $tags=&quot;backup&quot;)</span><br><span class="line"></span><br><span class="line">Rel(user, spa, &quot;Uses&quot;, &quot;https&quot;)</span><br><span class="line">Rel(spa, api, &quot;Uses&quot;, &quot;https&quot;)</span><br><span class="line">Rel_R(api, db, &quot;Reads/Writes&quot;)</span><br><span class="line">Rel(admin, spaAdmin, &quot;Uses&quot;, &quot;https&quot;)</span><br><span class="line">Rel(spaAdmin, api, &quot;Uses&quot;, &quot;https&quot;)</span><br><span class="line">Rel_L(api, archive, &quot;Writes&quot;, &quot;messages&quot;, $tags=&quot;backup&quot;)</span><br><span class="line"></span><br><span class="line">SHOW_LEGEND()</span><br><span class="line">@enduml</span><br></pre></td></tr></table></figure><p>`</p><hr> IPFS: <a href='https://meta-network-data-viewer.vercel.app/ipfs/bafybeifwrz6iywguztyete72gawtu42hm4t7mk5bhsv4o5ey6xv3bevrdi' rel='external meta-network-dataviewer' target='_blank'>bafybeifwrz6iywguztyete72gawtu42hm4t7mk5bhsv4o5ey6xv3bevrdi</a>]]></content>
+    
+    
+    <summary type="html">测试 UML 图
+@startuml
+!include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/...</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>测试带封面的草稿</title>
+    <link href="https://andoroyur19.metaspaces.life/2021/11/11/%E6%B5%8B%E8%AF%95%E5%B8%A6%E5%B0%81%E9%9D%A2%E7%9A%84%E8%8D%89%E7%A8%BF/"/>
+    <id>https://andoroyur19.metaspaces.life/2021/11/11/%E6%B5%8B%E8%AF%95%E5%B8%A6%E5%B0%81%E9%9D%A2%E7%9A%84%E8%8D%89%E7%A8%BF/</id>
+    <published>2021-11-11T20:21:38.000Z</published>
+    <updated>2021-11-17T17:54:33.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>测试UML图</p><img src="https://www.plantuml.com/plantuml/svg/bLRTRjem5BxdARnecgX4oSsk9aqgfOLM0ie8h9UHIGxWuVpCTjgXgJTxcBtPtcF7Jb9YQbeQgI8--hxl_FcSz48gAbIHyDO7baQyY85ibChb5zyNzB6xPcfJB0i98ifI1QdgHbdYvvoccdCkLSpPqkz_Ffzgqs8yyXCg5GWqXNraK9Q2wEPQ7vyf29cbxKW0LPde4AzVldbdhLQmGruINcP56bEnQoUWA2B6-EET_Mwr23ukJ1WbiiAH_ZZGM58zpm6q4HEkXCaWrcx70HbKHm_FYuHrVqYCmisaESE_l2BsfhUab-USHLInBDNy2KYb1V3rXgOn1qaevmJhXXfI4fwjMUIIlreQ1_6oqhwYYYwf1AqqtWNVHaOoux4aCeiOvII1c5623L2hJ2I4hjS2rYQG3ZRfWKL0SfO3HtN2Kesfe_meSy4KVFMIdVp9Guq6KtaTqLFviy-xYB3P81gvB_h6yexyzRNnQHHXkvHF2xMn2j4iGktD5A9sz4enj7AdKkuOvNVakazoHTDGiMWBgf7dWAPaReplI1MLIAbqDCU6CvDcmyyhcJQ4JqpHTlojW09mKAIaQmYN8jk2CEDY3EJI6BoED-dDWxf0pZ5BGJrcObkFsgGykiUjIMZENPDf3U0CQAIEZQ2bjk-J9NPwfu9oZchYQwDfEJOzito-FQmLzyJEDUQmx40xNQameGARh_CPpCdO77IVdkgDMKOfSnf17M2W3usTUlrBjN6HXmBoBCn5zi1YSmc6J94PsiYqik4z-FVt3ncQfOy23NvUB3cJ6yERrkyMdapnGidET_nK0EzWaJXRxNGKC-3xbN-mYHSIi4EU-UGWre8UkqK7d99aoJgMbyEFHR7t_9jmv-Pm1VOY56lLuRsFfN-lhqFJppFu-UFW0Bf2EDmn1pJ3ErBMasfsX7jaGayNUBFwRWyl1zILi2NkcWFZpr7zvfslC0RKiBlaJ0mEh3MebmNJY-8JkScaihAi4DRips257qIVZ5YwBR7XoDeEnxf7zhSHry7DtNqu6DtrvhUJOJYw7bvFhjfdhGji0Vw3zXy0" alt="uml diagram"><hr> IPFS: <a href='https://meta-network-data-viewer.vercel.app/ipfs/bafybeibw7b4jtfkltrrmfjnn4klek4n7elj5dtvqvja3qgwt3ladnt2pqa' rel='external meta-network-dataviewer' target='_blank'>bafybeibw7b4jtfkltrrmfjnn4klek4n7elj5dtvqvja3qgwt3ladnt2pqa</a>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;测试UML图&lt;/p&gt;
+&lt;img src=&quot;https://www.plantuml.com/plantuml/svg/bLRTRjem5BxdARnecgX4oSsk9aqgfOLM0ie8h9UHIGxWuVpCTjgXgJTxcBtPtcF7Jb9YQbeQgI8--h</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello Meta Space</title>
+    <link href="https://andoroyur19.metaspaces.life/2021/09/06/hello-meta-space/"/>
+    <id>https://andoroyur19.metaspaces.life/2021/09/06/hello-meta-space/</id>
+    <published>2021-09-06T16:00:00.000Z</published>
+    <updated>2021-11-24T12:36:02.918Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to Meta Space!</p><h2 id="Quick-Start">Quick Start</h2><h3 id="Create-a-new-post">Create a new post</h3><p>WIP</p><h3 id="IPFS-image-sample">IPFS image sample</h3><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">![<span class="string">Preview</span>](<span class="link">ipfs://QmQxQ2jNCjBVebYd94yoxVd9mKd5aUPLd1LGEFn9MgS4kk</span>)</span><br></pre></td></tr></table></figure><p><img src="https://ipfs.fleek.co/ipfs/QmQxQ2jNCjBVebYd94yoxVd9mKd5aUPLd1LGEFn9MgS4kk" alt="Preview"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to Meta Space!&lt;/p&gt;
+&lt;h2 id=&quot;Quick-Start&quot;&gt;Quick Start&lt;/h2&gt;
+&lt;h3 id=&quot;Create-a-new-post&quot;&gt;Create a new post&lt;/h3&gt;
+&lt;p&gt;WIP&lt;/p&gt;
+&lt;h3 id=&quot;IPF</summary>
+      
+    
+    
+    
+    <category term="Demo" scheme="https://andoroyur19.metaspaces.life/categories/Demo/"/>
+    
+    <category term="Generated" scheme="https://andoroyur19.metaspaces.life/categories/Demo/Generated/"/>
+    
+    
+    <category term="Meta Space" scheme="https://andoroyur19.metaspaces.life/tags/Meta-Space/"/>
+    
+  </entry>
+  
+</feed>
